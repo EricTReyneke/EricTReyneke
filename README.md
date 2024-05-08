@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erictreyneke&label=Profile%20views&color=0e75b6&style=flat" alt="erictreyneke" /> </p>
 
-- 🔭 I’m currently working on [DynamicModelReflectorLinQ](https://github.com/EricTReyneke/DynamicModelReflectorLinQ)
+- 🔭 I’m currently working on [JukskeiGenisis](https://github.com/EricTReyneke/JukskeiGenisisShowcase)
 
 - 🌱 I’m currently learning **Rust**
 
