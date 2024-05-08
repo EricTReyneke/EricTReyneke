@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eric Reyneke</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erictreyneke&label=Profile%20views&color=0e75b6&style=flat" alt="erictreyneke" /> </p>
 
